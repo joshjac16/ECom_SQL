@@ -48,6 +48,11 @@ node start
 ### Walkthrough Video 
 
 
+
+https://github.com/joshjac16/ECom_SQL/assets/130494193/04c595bb-2f3d-4d1b-af79-fb002d2db07e
+
+
+
 ## Technologies used 
 
 * Express.js 
